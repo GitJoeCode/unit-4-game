@@ -1,3 +1,37 @@
+body {
+     width:100%;
+    margin:0 auto;
+    padding:0px;
+    font-family:'Cinzel', serif;
+    background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6bd6dc12-f963-438a-80a5-1a9043d471a3/d3h3ouv-56b47b77-3abe-4f59-88f3-3138809216c5.jpg/v1/fill/w_800,h_511,q_75,strp/bag_of_gems_by_carlostorreblanca_d3h3ouv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTEiLCJwYXRoIjoiXC9mXC82YmQ2ZGMxMi1mOTYzLTQzOGEtODBhNS0xYTkwNDNkNDcxYTNcL2QzaDNvdXYtNTZiNDdiNzctM2FiZS00ZjU5LTg4ZjMtMzEzODgwOTIxNmM1LmpwZyIsIndpZHRoIjoiPD04MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vh1veLZl6YKyNraMrDQ0KRKCd3_93IYE2Q20M_NuAME")
+}
+
+#game1 {
+    width: 500px;
+    color: yellow;
+    font-family:'Cinzel', serif;
+    font-size: 20px;
+    background-color: blue;
+    margin:0;
+    padding:0px;
+}
+
+#numberGuess, #totalScore {
+    background-color: teal;
+    width: 400px;
+    margin:0;
+    padding:0px;
+}
+
+#game2 {
+    width: 50px;
+    color: yellow;
+    font-family:'Cinzel', serif;
+    font-size: 50px;
+    background-color: blue;
+    margin:0;
+    padding:0px;
+}
 
 .crystal1 {
     width: 100px;
